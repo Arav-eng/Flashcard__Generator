@@ -1,0 +1,4 @@
+# Created by venv
+.env
+venv/
+_pycache_/
